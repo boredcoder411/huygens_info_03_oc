@@ -13,6 +13,10 @@ Le projet contient 4 fichiers:
  - `export_figures.py`: script pour exporter les figures utiles à la présentation
  - `huygens.py`: le coeur de la simulation, avec tous les calculs
 
+Le projet principal est dans `main.py`, mais `interactive.py` est pour approfondir notre compréhension de python et matplotlib
+
+Note: pour utiliser `interactive.py` il suffit de l'executer, un clic gauche ajoute une source, la touche Maj avec un clic gauche sert à rajouter des obstacles
+
 # Images
 ![simulation à 700 étapes](figures/snapshot_late.png)
 
